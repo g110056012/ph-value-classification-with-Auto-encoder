@@ -2,7 +2,7 @@
 
 There are three types of anthocyanin, which are  LPE__calibrated, PFPE__calibrated, Jabuticaba_calibrated. 
 
-STEPS: 
+## STEPS: 
 1. Using Mask R-CNN pretrained model to implement object detection task for the bottle object. 
 2. We crop the middle part of the bottle which is the liquid part image, and then we crop the image into several 32X32 size pixels(Dataset). 
 3. Train Auto-Encoder Model. 
@@ -12,7 +12,7 @@ STEPS:
 
 
 
-HOW TO RUN THESE CODES:
+## HOW TO RUN THESE CODES:
 
 *File directory must be adjusted to satisfy your route.
 
