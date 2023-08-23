@@ -1,6 +1,6 @@
 # ph-value-classification-with-Auto-encoder
 
-There are three types of anthocyanin, which are  LPE__calibrated, PFPE__calibrated, Jabuticaba_calibrated. 
+There are four types of anthocyanin, which are  LPE__calibrated, PFPE__calibrated, Jabuticaba_calibrated, DFPE. 
 
 ## STEPS: 
 1. Using Mask R-CNN pretrained model to implement object detection task for the bottle object. 
